@@ -4,11 +4,11 @@
 <p>신입 프론트엔드 개발자입니다.</p>
 
 <h4>:computer:I’m currently learning:computer:</h4>
-<div>
+<center>
   <p><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></p>
   <p><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></p>
   <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></p>
-</div>
+</center>
 
 <div>
   <p><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></p>
