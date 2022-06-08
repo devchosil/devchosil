@@ -9,7 +9,7 @@
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/{1}-{2}?style=flat-square&logo={3}&logoColor={4}"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
 
 **devchosil/devchosil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
