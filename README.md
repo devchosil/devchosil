@@ -1,8 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=250&section=header&text=Song's%20Git%20Hub,&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=3&height=250&section=header&text=Song's%20Git%20Hub&fontSize=70)
 
-<h3>신입 프론트엔드 개발자입니다.</h3>
+<h4>신입 프론트엔드 개발자입니다.</h4>
 
-<h3>Skills</h3>
+<h4>제가 공부하고 있는 것들은</h4>
+#E34F26
 
 **devchosil/devchosil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
