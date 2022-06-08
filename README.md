@@ -4,7 +4,7 @@
 
 <h4>제가 공부하고 있는 것들은</h4>
 
-<img src="https://img.shields.io/badge/{HTML}-{yellow}?style=flat-square&logo={HTML5}&logoColor={E34F26}"/>
+<img src="https://img.shields.io/badge/HTML-green?style=flat-square&logo={HTML5}&logoColor={E34F26}"/>
 <img src="https://img.shields.io/badge/{1}-{2}?style=flat-square&logo={3}&logoColor={4}"/>
 <img src="https://img.shields.io/badge/{1}-{2}?style=flat-square&logo={3}&logoColor={4}"/>
 
