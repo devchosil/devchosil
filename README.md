@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
  -->
 
-<img src="https://github.com/devchosil/devchosil/issues/1#issue-1410489180">
+<img src="https://user-images.githubusercontent.com/101618759/196038005-d07cd897-df08-4b81-89c1-2f48290ae302.gif">
 
 
 
