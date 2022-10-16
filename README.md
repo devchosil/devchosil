@@ -26,9 +26,4 @@
 <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
  -->
 
-<div align="center">
- <img src="https://user-images.githubusercontent.com/101618759/196038005-d07cd897-df08-4b81-89c1-2f48290ae302.gif" width="400px" height="200px">
- <img src="https://user-images.githubusercontent.com/101618759/196038005-d07cd897-df08-4b81-89c1-2f48290ae302.gif" width="400px" height="200px">
-</div>
-
 
