@@ -25,23 +25,4 @@
 <!-- <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
  -->
- 
- # 🎨 Skills
- <div width="40%">
-### 🧶 Front
-* React
-* React Router
-* Styled Component
-* UseConText
-* USESWR
-</div>
 
- <div width="40%">
-### 🛠 Back
-* Node
-* JWT
-* Jenkins
-* Redis
-* MySql
-* 결제 API 
-</div>
